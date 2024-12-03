@@ -508,6 +508,7 @@
     "expoGo": true,
     "windows": true,
     "macos": true,
+    "fireos": true,
     "tvos": true,
     "visionos": true,
     "goldstar": true,
@@ -3175,6 +3176,7 @@
     "tvos": true,
     "web": true,
     "macos": true,
+    "fireos":true,
     "expoGo": true,
     "visionos": true,
     "newArchitecture": true,
@@ -3374,7 +3376,8 @@
     "android": true,
     "web": true,
     "windows": true,
-    "macos": true
+    "macos": true,
+    "fireos":true
   },
   {
     "githubUrl": "https://github.com/react-native-datetimepicker/datetimepicker",
@@ -3578,6 +3581,7 @@
     "expoGo": true,
     "windows": true,
     "macos": true,
+    "fireos":true,
     "visionos": true,
     "npmPkg": "@react-native-async-storage/async-storage",
     "newArchitecture": true
@@ -3845,6 +3849,7 @@
     "web": true,
     "windows": true,
     "macos": true,
+    "fireos": true,
     "visionos": true,
     "newArchitecture": true
   },
@@ -7139,6 +7144,7 @@
     "expoGo": true,
     "web": true,
     "macos": true,
+    "fireos":true,
     "visionos": true,
     "goldstar": true
   },

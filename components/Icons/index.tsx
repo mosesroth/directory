@@ -420,6 +420,22 @@ export function PlatformVisionOS({ width = 18, height = 18, fill = colors.black 
   );
 }
 
+export function PlatformFireOS({ width = 18, height = 18, fill = colors.black }: Props) {
+  return (
+    <Svg width={width} height={height} viewBox="0 0 24 24" fill="none">
+      <Path
+        fill={fill}
+        d="M17.4,13.5c0.1-0.4,0.1-0.8,0.1-1.2c0-3.9-3.1-7-7-7s-7,3.1-7,7c0,3.9,3.1,7,7,7c1.8,0,3.4-0.7,4.7-1.8 c0.4,0.2,0.8,0.3,1.2,0.3c1.7,0,3-1.3,3-3C19.4,14.8,19,13.5,17.4,13.5z M10.5,16.5c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2 s4.2,1.9,4.2,4.2S12.8,16.5,10.5,16.5z"
+      />
+      <Path 
+        fill={fill}
+        opacity="0.5"
+        d="M10.5,9.1c-1.8,0-3.2,1.4-3.2,3.2s1.4,3.2,3.2,3.2s3.2-1.4,3.2-3.2S12.3,9.1,10.5,9.1z M10.5,14.5 c-1.2,0-2.2-1-2.2-2.2s1-2.2,2.2-2.2s2.2,1,2.2,2.2S11.7,14.5,10.5,14.5z"
+      />
+    </Svg>
+  );
+}
+
 export function ReactLogo({ width = 18, height = 18, fill = colors.black }: Props) {
   return (
     <Svg width={width} height={height} viewBox="0 0 512 512" fill="none">
