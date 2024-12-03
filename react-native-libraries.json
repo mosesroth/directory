@@ -565,6 +565,7 @@
     "ios": true,
     "android": true,
     "windows": true,
+    "fireos": true,
     "expoGo": true,
     "goldstar": true,
     "npmPkg": "lottie-react-native"
@@ -764,6 +765,7 @@
     "windows": true,
     "visionos": true,
     "tvos": true,
+    "fireos": true,
     "newArchitecture": true
   },
   {
@@ -2079,7 +2081,8 @@
     "githubUrl": "https://github.com/awesomejerry/react-native-qrcode-svg",
     "ios": true,
     "android": true,
-    "expoGo": true
+    "expoGo": true,
+    "fireos":true
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-google-mobile-ads",
@@ -2827,6 +2830,7 @@
     "android": true,
     "web": true,
     "expoGo": true,
+    "fireos": true,
     "newArchitecture": true
   },
   {
@@ -3155,6 +3159,7 @@
     "npmPkg": "@react-native-cookies/cookies",
     "ios": true,
     "android": true,
+    "fireos": true,
     "newArchitecture": true
   },
   {
@@ -3517,6 +3522,7 @@
     "windows": true,
     "macos": true,
     "visionos": true,
+    "fireos": true,
     "npmPkg": "@react-native-community/netinfo",
     "newArchitecture": true
   },
@@ -3625,6 +3631,7 @@
     "android": true,
     "tvos": true,
     "expoGo": true,
+    "fireos": true,
     "npmPkg": "@react-native-masked-view/masked-view"
   },
   {
@@ -3873,6 +3880,7 @@
     "android": true,
     "windows": true,
     "visionos": true,
+    "fireos": true,
     "newArchitecture": true,
     "alternatives": ["expo-device"]
   },
@@ -3904,6 +3912,7 @@
     ],
     "ios": true,
     "android": true,
+    "fireos": true,
     "newArchitecture": false,
     "unmaintained": true,
     "alternatives": ["expo-image"]
@@ -6418,6 +6427,7 @@
     "examples": ["https://github.com/mrousavy/react-native-mmkv/tree/main/package/example"],
     "ios": true,
     "android": true,
+    "fireos": true,
     "web": true,
     "newArchitecture": true
   },
@@ -8486,6 +8496,7 @@
     "android": true,
     "ios": true,
     "expoGo": true,
+    "fireos": true,
     "newArchitectureNote": "Compiles and runs, but behavior may not be as expected."
   },
   {
@@ -12602,7 +12613,8 @@
     "ios": true,
     "android": true,
     "web": true,
-    "expoGo": true
+    "expoGo": true,
+    "fireos": true
   },
   {
     "githubUrl": "https://github.com/mustapha-ghlissi/react-native-select-picker",
