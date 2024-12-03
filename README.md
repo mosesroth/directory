@@ -99,7 +99,7 @@
   **(boolean)** - works on Android device.
 - #### `ios`
   **(boolean)** - works on iOS device.
-  - #### `fireos`
+- #### `fireos`
   **(boolean)** - works on Amazon Fire device.
 - #### `web`
   **(boolean)** - can be used with [`react-native-web`](https://github.com/necolas/react-native-web).
