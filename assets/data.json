@@ -5166,7 +5166,7 @@
       "expoGo": true,
       "windows": true,
       "macos": true,
-      "fireos":true,
+      "fireos": true,
       "tvos": true,
       "visionos": true,
       "goldstar": true,
@@ -31522,7 +31522,7 @@
       "tvos": true,
       "web": true,
       "macos": true,
-      "fireos":true,
+      "fireos": true,
       "expoGo": true,
       "visionos": true,
       "newArchitecture": true,
@@ -33203,7 +33203,7 @@
       "web": true,
       "windows": true,
       "macos": true,
-      "fireos":true,
+      "fireos": true,
       "github": {
         "urls": {
           "repo": "https://github.com/zoontek/react-native-localize",
@@ -37107,7 +37107,7 @@
       "web": true,
       "windows": true,
       "macos": true,
-      "fireos":true,
+      "fireos": true,
       "visionos": true,
       "newArchitecture": true,
       "github": {

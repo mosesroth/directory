@@ -18,7 +18,7 @@ export function CompatibilityTags({ library }: Props) {
     library.expoGo ? 'Expo Go' : null,
     library.ios ? 'iOS' : null,
     library.macos ? 'macOS' : null,
-    library.fireos ? 'Fire OS' :null,
+    library.fireos ? 'Fire OS' : null,
     library.tvos ? 'tvOS' : null,
     library.visionos ? 'visionOS' : null,
     library.web ? 'Web' : null,

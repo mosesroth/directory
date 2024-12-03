@@ -2081,8 +2081,8 @@
     "githubUrl": "https://github.com/awesomejerry/react-native-qrcode-svg",
     "ios": true,
     "android": true,
-    "expoGo": true,
-    "fireos":true
+    "fireos": true,
+    "expoGo": true
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-google-mobile-ads",
@@ -3181,7 +3181,7 @@
     "tvos": true,
     "web": true,
     "macos": true,
-    "fireos":true,
+    "fireos": true,
     "expoGo": true,
     "visionos": true,
     "newArchitecture": true,
@@ -3382,7 +3382,7 @@
     "web": true,
     "windows": true,
     "macos": true,
-    "fireos":true
+    "fireos": true
   },
   {
     "githubUrl": "https://github.com/react-native-datetimepicker/datetimepicker",
@@ -3587,7 +3587,7 @@
     "expoGo": true,
     "windows": true,
     "macos": true,
-    "fireos":true,
+    "fireos": true,
     "visionos": true,
     "npmPkg": "@react-native-async-storage/async-storage",
     "newArchitecture": true
@@ -7154,7 +7154,7 @@
     "expoGo": true,
     "web": true,
     "macos": true,
-    "fireos":true,
+    "fireos": true,
     "visionos": true,
     "goldstar": true
   },
