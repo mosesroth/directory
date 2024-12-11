@@ -47,7 +47,7 @@ export type Library = {
   expoGo?: boolean;
   windows?: boolean;
   macos?: boolean;
-  fireos?: boolean;
+  fireos?: string;
   tvos?: boolean;
   visionos?: boolean;
   unmaintained?: boolean | string;
